@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Фотоэлемент</string>
+    <string name="action_settings">настройки</string>
+    <string name="gallery">галерея</string>
+    <string name="save">спасти</string>
+    <string name="edit">редактировать</string>
+    <string name="delete">Удалить</string>
+    <string name="share">доля</string>
+    <string name="show">показать</string>
+    <string name="style_selfie">стиль</string>
+    <string name="cut">порез</string>
+    <string name="font">шрифт</string>
+    <string name="text">текст</string>
+</resources>

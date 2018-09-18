@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Photo Layer Selfie</string>
+    <string name="action_settings">paramètres</string>
+    <string name="gallery">galerie</string>
+    <string name="save">enregistrer</string>
+    <string name="edit">modifier</string>
+    <string name="delete">effacer</string>
+    <string name="share">partager</string>
+    <string name="show">montrer</string>
+    <string name="style_selfie">style selfie</string>
+    <string name="cut">couper</string>
+    <string name="font">police de caractère</string>
+    <string name="text">texte</string>
+</resources>

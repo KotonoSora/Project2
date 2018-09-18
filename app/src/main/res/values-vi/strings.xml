@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Photo Layer Selfie</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="gallery">Thư viện ảnh</string>
+    <string name="save">Lưu</string>
+    <string name="edit">Chỉnh sửa</string>
+    <string name="delete">Xóa bỏ</string>
+    <string name="share">Chia Sẻ</string>
+    <string name="show">Cho xem</string>
+    <string name="style_selfie">Kiểu Ảnh Tự Sướng</string>
+    <string name="cut">Cắt ảnh</string>
+    <string name="font">Phông chữ</string>
+    <string name="text">Văn bản</string>
+</resources>

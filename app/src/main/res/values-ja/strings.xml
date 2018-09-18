@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">写真レイヤーセルフ</string>
+    <string name="action_settings">設定</string>
+    <string name="gallery">ギャラリー</string>
+    <string name="save">セーブ</string>
+    <string name="edit">編集</string>
+    <string name="delete">削除</string>
+    <string name="share">シェア</string>
+    <string name="show">ショー</string>
+    <string name="style_selfie">スタイルセルフ</string>
+    <string name="cut">カット</string>
+    <string name="font">フォント</string>
+    <string name="text">テキスト</string>
+</resources>

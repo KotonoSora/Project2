@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Photo Layer Selfie</string>
+    <string name="action_settings">pengaturan</string>
+    <string name="gallery">galeri</string>
+    <string name="save">menyimpan</string>
+    <string name="edit">edit</string>
+    <string name="delete">menghapus</string>
+    <string name="share">bagikan</string>
+    <string name="show">menunjukkan</string>
+    <string name="style_selfie">gaya selfie</string>
+    <string name="cut">Memotong</string>
+    <string name="font">font</string>
+    <string name="text">teks</string>
+</resources>

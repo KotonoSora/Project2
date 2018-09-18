@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Capa de fotos Selfie</string>
+    <string name="action_settings">ajustes</string>
+    <string name="gallery">galería</string>
+    <string name="save">salvar</string>
+    <string name="edit">editar</string>
+    <string name="delete">borrar</string>
+    <string name="share">compartir</string>
+    <string name="show">espectáculo</string>
+    <string name="style_selfie">estilo selfie</string>
+    <string name="cut">cortar</string>
+    <string name="font">fuente</string>
+    <string name="text">texto</string>
+</resources>

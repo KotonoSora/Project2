@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">फोटो लेयर सेल्फी</string>
+    <string name="action_settings">सेटिंग्स</string>
+    <string name="gallery">गेलरी</string>
+    <string name="save">बचाना</string>
+    <string name="edit">संपादित करें</string>
+    <string name="delete">हटाना</string>
+    <string name="share">शेयर</string>
+    <string name="show">दिखाना</string>
+    <string name="style_selfie">शैली सेल्फी</string>
+    <string name="cut">कट गया</string>
+    <string name="font">फ़ॉन्ट</string>
+    <string name="text">टेक्स्ट</string>
+</resources>
